@@ -1,4 +1,4 @@
-# mParser.js/jsonParser
+# jsonParser
 jsonParser 是一个解析json的库，它的效果与JSON.parse()是一致的   
 ## 使用方法   
 ```js
